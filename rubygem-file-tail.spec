@@ -53,3 +53,13 @@ Documents, RDoc & RI documentation for %{name}.
 %dir %{ruby_gemdir}/gems/%{rbname}-%{version}/examples
 %{ruby_gemdir}/gems/%{rbname}-%{version}/examples/*.rb
 
+
+
+%changelog
+* Tue Mar 29 2011 Per Øyvind Karlsen <peroyvind@mandriva.org> 1.0.5-1
++ Revision: 648717
+- imported package rubygem-file-tail
+
+
+* Tue Mar 29 2011 Per Øyvind Karlsen <peroyvind@mandriva.org> 1.0.5-1
+- Initial package
