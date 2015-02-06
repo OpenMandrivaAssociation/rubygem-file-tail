@@ -5,7 +5,7 @@ Summary:	File::Tail for Ruby
 Name:		rubygem-%{rbname}
 
 Version:	1.0.5
-Release:	1
+Release:	2
 Group:		Development/Ruby
 License:	GPLv2+ or Ruby
 URL:		http://flori.github.com/file-tail
