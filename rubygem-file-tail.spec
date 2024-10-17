@@ -8,7 +8,7 @@ Version:	1.0.5
 Release:	2
 Group:		Development/Ruby
 License:	GPLv2+ or Ruby
-URL:		http://flori.github.com/file-tail
+URL:		https://flori.github.com/file-tail
 Source0:	http://rubygems.org/gems/%{rbname}-%{version}.gem
 BuildRequires:	rubygems 
 BuildArch:	noarch
